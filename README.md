@@ -8,7 +8,6 @@ pip install -r requirements.txt
 ```
 
 idk which model to choose so i'm just gonna use all of them
-intuitively, i'd expected GRU/LSTM to perform best but idk
 
 ```
 python yahoo.py
