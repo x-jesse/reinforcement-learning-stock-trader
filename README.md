@@ -1,14 +1,10 @@
-# stonk prediction for WAT.ai application 📈
+# Reinforcement Learning for Stock Trading 📈
 
-Setup venv and install requirements
-```
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
+WAT.ai Submission - take-home project for WAT.ai
 
-idk which model to choose so i'm just gonna use all of them
+Predicting Microsoft (MSFT) stock prices and making trading decisions using a LSTM + policy gradient algorithm.
+Trained and implemented in Google Colab + Pytorch.
 
-```
-python yahoo.py
-```
+References
+
+
